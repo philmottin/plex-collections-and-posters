@@ -1,0 +1,11 @@
+The 'main.py' script will create the collections
+collections are defined in:
+- collections.yml
+- collections.d/*
+
+
+The 'Posters\plex_collections.py' is the original script that can update posters and summary and download images from TMDB.
+
+The 'Posters\plex_collections_v2.py' will update the image poster for the collections.
+This is my version that only update the poster images and checks for the images from a single folder instead of looking for images on each movie from collection.
+Check it's own INSTRUCTIONS inside 'Posters' folder

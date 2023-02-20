@@ -1,0 +1,28 @@
+poster images for the collections need to be inside each corresponding library id-name:
+ex:
+imgs/3-Movies/pictures here
+igms/1-Series/pictures here
+
+// 3 is plex library ID and Movies is the exact name of the library
+// 1 is plex library ID and |Series is the exact name of the library
+
+posters can be .jpg / .jpeg / .png
+posters must match the the collection name.
+if posters images name contain the word 'Collection', it's fine, it will be ignored. 
+
+find the library ids firts:
+> python plex_collections_v2.py list
+
+* AFTER RUN THE SCRIPT WILL PROMPT TO CONFIRM EACH LIBRARY ID BEFORE RUNNING THE CORRESPONDING LIBRARY *
+
+Dry run, just print, doesn't execute any action
+> python plex_collections_v2.py run --dry-run --library=3
+
+Run specific library
+> python plex_collections_v2.py run --library=3
+
+Run multiple libraries
+> python plex_collections_v2.py run --library=3 --library=1
+
+Run all libraries
+> python plex_collections_v2.py run
