@@ -1,47 +1,59 @@
-The Addams Family:
-  - ^The Addams Family$
-  - Addams Family (Values|Reunion)?$
-Alice in Wonderland:
-  - Alice in Wonderland {{2010}}
-  - Alice Through the Looking Glass
+
 American Pie:
   - ^American Pie( 2)?$
   - American (Reunion|Wedding)
-Amityville:
-  - The Amityville Horror
-  - Amityville II.+?The Possession
-  - Amityville 3-D
-  - Amityville.+?The Evil Escapes
-  - The Amityville Curse
-  - Amityville 1992.+?It's About Time
-  - Amityville.+?A New Generation
-  - Amityville.+?Dollhouse
-  - The Amityville Haunting
-  - The Amityville Asylum
-  - Amityville Death House
-  - Amityville Playhouse
-  - Amityville.+?Vanishing Point
-  - The Amityville Terror
-  - The Amityville Legacy
-  - Amityville.+?No Escape
-  - Amityville Exorcism
-  - Amityville.+?The Awakening
-  - The Amityville Harvest
+Anaconda:
+  - ^Anacondas ?(The Hunt for the Blood Orchid|Trail of Blood)
+  - ^Anaconda ?\d?
 Anchorman:
-  - Anchorman.+?The Legend of Ron Burgundy
-  - Anchorman 2.+?The Legend Continues
-  - Wake Up, Ron Burgundy.+?The Lost Movie
+  - ^Anchorman.+?The Legend of Ron Burgundy$
+  - ^Anchorman 2.+?The Legend Continues$
+  - ^Wake Up, Ron Burgundy$
 Annabelle: &annabelle
   - ^Annabelle( \d)?$
   - ^Annabelle.+?(Creation|Comes Home)
+Austin Powers:
+  - Austin Powers in Goldmember
+  - Austin Powers. (International Man of Mystery|The Spy Who Shagged Me)
 Back to the Future:
   - ^Back to the Future(.+?Part (I{2,3}|[2-3]))?$
+Bad Boys:
+  - ^Bad Boys {{1995}}
+  - ^Bad Boys.
+Beethoven:
+  - ^Beethoven
+Beverly Hills Cop:
+  - Beverly Hills Cop.?(I{1,4})?
+Big Momma's House:
+  - ^Big Momma.?s
+The Blair Witch:
+  - Blair Witch
+The Blue Lagoon:
+  - Blue Lagoon
+Blues Brothers:
+  - Blues Brothers
 Bridget Jones:
   - Bridget Jones.*?s (Diary|Baby)
   - Bridget Jones.*?The Edge of Reason
+The Butterfly Effect:
+  - ^The Butterfly Effect
+Candyman:
+  - ^Candyman
+Carrie:
+  - ^(The Rage. )?Carrie( \d)?$
+Charlie's Angels:
+  - ^Charlie's Angels
 Child's Play:
   - ^Child.*?s Play( \d)?$
   - ^(Bride|Seed|Curse|Cult) of Chucky$
+Children of the Corn:
+  - ^Children of the corn
+The Chronicles of Narnia:
+  - ^The Chronicles of Narnia
+Cloverfield:
+  - ^(The |10 )?Cloverfield.?(Lane|Paradox)?$
+Cocoon:
+  - ^Cocoon
 The Conjuring: &the_conjuring
   - ^The Conjuring( \d)?$
   - ^The Conjuring.+?(The devil made me do it)$
@@ -50,120 +62,254 @@ The Conjuring Universe:
   - *the_conjuring
   - ^The Nun$
   - ^The Crooked Man$
+Crank:
+  - ^Crank
+Crocodile Dundee:
+  - ^Crocodile Dundee
+The Crow:
+  - ^The Crow
+Cube:
+  - ^Cube
+Daddy Day Care:
+  - Daddy Day (Care|Camp)?
+Death Race:
+  - ^Death Race
 Die Hard:
   - ^Die Hard( \d)?$
   - ^Die Hard.+?With a Vengeance
   - Live Free or Die Hard
   - A Good Day to Die Hard
+Dirty Dancing:
+  - ^Dirty Dancing
 Divergent:
   - ^Divergent$
   - ^(The Divergent Series.*?)?(Insurgent|Allegiant)$
-The Exorcist:
-  - ^The Exorcist$
-  - ^Exorcist.+?The Beginning$
-  - Dominion.+?Prequel to the Exorcist
+Doctor Dolittle:
+  - Dolittle
+Doctor Who:
+  - ^Doctor Who
+DragonHeart:
+  - ^Dragon.eart
+Drunken Master:
+  - Drunken Master
+Dumb and Dumber:
+  - ^Dumb and Dumber
+Escape Plan:
+  - ^Escape Plan
+The Evil Dead:
+  - ^(The )?Evil Dead
+  - Army of Darkness
 The Expendables:
   - ^The Expendables( \d)?$
+The Eye:
+  - ^The Eye
 Fantastic Beasts:
   - Fantastic Beasts and Where to Find Them
   - Fantastic Beasts.+?The Crimes of Grindelwald
-Fast & Furious:
-  - The Fast and the Furious
-  - 2 Fast 2 Furious
-  - Fast & Furious
-  - Fast Five
-  - Furious 7
-  - The Fate of the Furious
-  - The Fast And The Furious.+?Tokyo Drift
-  - Fast & Furious Presents.+?Hobbs & Shaw
-  - F9. The Fast Saga
 Final Destination:
   - ^Final Destination( \d)?$
   - ^The Final Destination$
+The Fly:
+  - (T|t)he Fly
+Free Willy:
+  - ^Free Willy
+Fright Night:
+  - ^Fright Night
+From Dusk Till Dawn:
+  - ^From Dusk Till Dawn
+Get Smart:
+  - ^Get Smart
+  - ^The Nude Bomb$
+Ghostbusters:
+  - ^Ghostbusters
+GodFather:
+  - ^The Godfather.?( Part I+)?$
+Godzilla:
+  - Godzilla
+The Grudge:
+  - ^The Grudge( \d)?$
+Halloween:
+  - ^Halloween
 Hangover:
   - ^The Hangover(.+?Part (I{2,3}|\d))?$
+Hannibal:
+  - ^Hannibal( Rising)?$
+  - ^The Silence of the Lambs$
+  - ^Red Dragon$
 Happy Death Day:
   - ^Happy Death Day( 2U)?$
-Harry Potter Collection:
-  - Harry Potter and the (Sorcerer.*?s|Philosopher.*?s) Stone
-  - Harry Potter and the (Chamber of Secrets|Prisoner of Azkaban|Goblet of Fire|Order of the Phoenix|Half.*?Blood Prince)
-  - Harry Potter and the Deathly Hallows(.+?Part ([1-2]))?$
-  - Harry Potter 20th Anniversary
+Herbie:
+  - ^The Love Bug$
+  - ^Herbie
 The Hobbit: &hobbit
   - ^The Hobbit.+?(An Unexpected Journey|The Desolation Of Smaug|The Battle Of The Five Armies)$
 Home Alone: &home_alone
   - Home Alone(.+?Lost in New York)?
+Honey, I Shrunk the Kids:
+  - ^Honey, (I Shrunk the Kids|I Blew Up the Kid|We Shrunk Ourselves!)
 Hunger Games:
   - ^The Hunger Games$
   - ^The Hunger Games.+?Catching Fire$
   - ^The Hunger Games.+?Mockingjay(.+?Part [1-2])?$
+I Know What You Did Last Summer:
+  - What You Did Last Summer$
 Independence Day:
   - ^Independence Day$
   - ^Independence Day.+?Resurgence
 Indiana Jones:
-  - Raiders of the Lost Ark
-  - Temple of Doom
-  - The Last Crusade
-  - Kingdom of the Crystal Skull
-  - Raiders!. The Story of the Greatest Fan Film Ever Made
+  - ^Indiana Jones
+  - ^Raiders!. The Story of the Greatest Fan Film Ever Made$
+Insidious:
+  - ^Insidious
+It:
+  - ^It( Chapter Two)?$
+Jackass:
+  - ^Jackass
 Jason Bourne:
-  - The Bourne (Identity|Supremacy|Ultimatum|Legacy)
-  - Jason Bourne
+  - ^The Bourne (Identity|Supremacy|Ultimatum|Legacy)$
+  - ^Jason Bourne$
+Jaws:
+  - ^Jaws
+Jeepers Creepers:
+  - ^Jeepers Creepers
 John Wick:
   - John Wick(.+?Chapter \d)?
+Johnny English:
+  - ^Johnny English( Reborn| Strikes Again)?$
+Jumanji:
+  - ^Jumanji
 Jurassic Park:
   - ^Jurassic( Park| World)(.+?(I{2,3}|[2-3]))?$
   - ^The Lost World.+?Jurassic Park
   - ^Jurassic World.+?(Fallen Kingdom|Dominion)
+K-9:
+  - ^K-9
+The Karate Kid:
+  - ^The Karate Kid( Part I+)?$
+  - ^The Next Karate Kid$
 Kick-Ass:
   - Kick-Ass( \d)?$
+King Kong:
+  - ^King Kong
+  - ^Kong. Skull Island$
+  - ^Godzilla vs. Kong$
+Legally Blonde:
+  - ^Legally Blonde
+Lethal Weapon:
+  - ^Lethal Weapon( \d)?$
+The Little Rascals:
+  - ^The Little Rascals
+Look Who's Talking:
+  - ^Look Who's Talking( Too| Now)?$
 The Lord of the Rings: &lotr
   - ^The Lord of The Rings.+?(The Fellowship of the Ring|The Two Towers|The Return of the King)$
+Mad Max:
+  - ^The Road Warrior$
+  - ^Mad Max
 The Matrix:
   - The Matrix
   - The Matrix Reloaded
   - The Matrix Revolutions
   - The Matrix Resurrections
+The Maze Runner:
+  - Maze Runner
+Meet the Fockers:
+  - ^Meet the (Fockers|Parents)$
+  - ^Little Fockers$
+Men in Black:
+  - ^Men in Black( \d| I+)?$
+  - ^Men in Black. International$
+Mission Impossible:
+  - ^Mission. Impossible
+The Mummy:
+  - ^The Mummy
+The Naked Gun:
+  - ^The Naked Gun
+National Lampoon's Vacation:
+  - ^National Lampoon's
+  - ^Vegas Vacation$
+  - ^Christmas Vacation 2. Cousin Eddie's Island Adventure$
+  - ^Vacation$
+The Neverending Story:
+  - ^The Neverending Story
+Night at the Museum:
+  - ^Night at the Museum
 Now You See Me:
   - Now You See Me( \d)?
+The Nutty Professor:
+  - ^(The )?Nutty Professor
 Oceans:
   - Ocean.*?s (Eleven|Twelve|Thirteen|Eight)
+The Omen:
+  - \WOmen
+  - ^The Final Conflict$
+  - ^Omen IV. The Awakening$
+Open Water:
+  - ^Open Water
+Paranormal Activity:
+  - ^Paranormal Activity
+Pet Sematary:
+  - ^Pet Sematary( I+)?$
 Pirates of the Caribbean:
   - ^Pirates of the Caribbean.+?(The Curse of the Black Pearl|Dead Man.*?s Chest|At World.*?s End|On Stranger Tides|Dead Men Tell No Tales)
-Planet of the Apes:
-  - Planet of the Apes
-  - (Beneath|Escape from|Conquest of|Battle for) the Planet of the Apes
-  - (Rise of|Dawn of|War for) the Planet of the Apes
-Resident Evil:
-  - ^Resident Evil$
-  - ^Resident Evil.+?(Apocalypse|Extinction|Afterlife|Retribution|The Final Chapter|Welcome to Raccoon City)
+Police Academy:
+  - ^Police Academy
+Poltergeist:
+  - ^Poltergeist
+Predator:
+  - ^(The )?Predator
+  - ^Alien vs. Predator$
+  - ^Aliens vs. Predator. Requiem$
+Psycho:
+  - ^Psycho( I*V?)?
+  - ^Bates Motel$
+The Raid:
+  - ^The Raid
+Rambo:
+  - ^First Blood$
+  - ^Rambo
+REC:
+  - ^\[Rec\]
+Revenge of the Nerds:
+  - ^Revenge of the Nerds( I*V?)?
+The Ring:
+  - ^The Ring( Two)?$
+  - ^Rings$
+  - ^Sadako$
+RoboCop:
+  - ^RoboCop( \d)?$
 Rocky:
   - ^Rocky(( I{0,3}V?)| Balboa)?$
   - ^Creed( I{1,3})?$
-Saw:
-  - ^Saw$
-  - ^Saw (I{2,3}|IV|V|VI|[2-3])?$
-  - Saw.+?The Final Chapter  
-  - Saw 3D
-  - Jigsaw
-  - Spiral
+Rosemary's Baby:
+  - Rosemary's Baby
+Rush Hour:
+  - ^Rush Hour( \d)?$
+The Sandlot:
+  - ^The Sandlot
 Scary Movie:
   - ^Scary Movie( \d)?$
   - Scary Movie V
-Star Wars:
-  - ^Star Wars(.+?A New Hope|.+?Episode (?:4|IV))?$
-  - ^(Star Wars.+?)?The Empire Strikes Back
-  - ^(Star Wars.+?)?Return of the Jedi
-  - ^Star Wars.*?Phantom Menace
-  - ^Star Wars.*?Attack of the Clones
-  - ^Star Wars.*?Revenge of the Sith
-  - ^Star Wars.*?Force Awakens
-  - ^(Star Wars.*?)?Rogue One$
-  - ^Star Wars.*?The Last Jedi
-  - ^Solo.+?A Star Wars Story$
-  - ^Star Wars.*?The Rise of Skywalker
-  - ^The Ewok Adventure
-  - ^Ewoks.*?Battle for Endor
+Scream:
+  - Scream( \d)?$
+The Secret Garden:
+  - ^(Back to )?(t|T)he Secret Garden$
+Species:
+  - ^Species( I+)?$
+  - ^Species. The Awakening$
+Spy Kids:
+  - ^Spy Kids
+Taken:
+  - ^Taken( \d)?$
+The Terminator:
+  - ^The Terminator$
+  - ^Terminator( \d)
+  - ^Terminator.? (Salvation|Genisys|Dark Fate)$
+The Three Musketeers:
+  - ^The Three Musketeers$
+Train to Busan:
+  - ^Train to Busan$
+  - ^Peninsula$
 Trainspotting:
   - ^Trainspotting$
   - ^T2 Trainspotting$
@@ -171,20 +317,25 @@ Transformers:
   - ^Transformers$
   - Transformers.+?(Revenge of the Fallen|Dark of the Moon|Age of Extinction|The Last Knight)
   - ^Bumblebee$
+The Transporter:
+  - ^(The )?Transporter( \d| Refueled)?$
+Unbreakable:
+  - ^Unbreakable$
+  - ^Split$
+  - ^Glass$
 Underworld:
   - ^Underworld$
   - Underworld.+?Evolution
   - Underworld.+?Rise of the Lycans
   - Underworld.+?Awakening
   - Underworld.+?Blood Wars
-X-Men:
-  - ^X-Men$
-  - ^X2.+?(X-Men United)
-  - X-Men.+?(Apocalypse|Days of Future Past|First Class|The Last Stand|Days of Future Past)
-  - X-Men Origins.+Wolverine
-  - ^The Wolverine$
-  - ^Logan$
-  - ^Dark Phoenix$
-  - ^Deadpool$ 
-  - ^Deadpool 2
-  - ^The New Mutants$
+Universal Soldier:
+  - ^Universal Soldier
+Walking Tall:
+  - ^Walking Tall$
+  - ^Final Chapter. Walking Tall$
+  - ^Walking Tall.? (Part II|The Payback)?$
+Wild Things:
+  - ^Wild Things
+Wishmaster:
+  - ^Wishmaster
