@@ -305,6 +305,10 @@ The Terminator:
   - ^The Terminator$
   - ^Terminator( \d)
   - ^Terminator.? (Salvation|Genisys|Dark Fate)$
+Three Flavours Cornetto:
+  - ^Shaun of the Dead$
+  - ^Hot Fuzz$
+  - ^The World's End$
 The Three Musketeers:
   - ^The Three Musketeers$
 Train to Busan:

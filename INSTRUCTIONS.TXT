@@ -9,3 +9,12 @@ The 'Posters\plex_collections.py' is the original script that can update posters
 The 'Posters\plex_collections_v2.py' will update the image poster for the collections.
 This is my version that only update the poster images and checks for the images from a single folder instead of looking for images on each movie from collection.
 Check it's own INSTRUCTIONS inside 'Posters' folder
+
+Run main collections
+> python main.py collections.yml
+
+Run main animations collections
+>python main.py collections_animations.yml
+
+Run main video game collections
+>python main.py collections.d/video_games.yml

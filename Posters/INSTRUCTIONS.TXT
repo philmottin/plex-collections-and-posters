@@ -18,8 +18,11 @@ find the library ids firts:
 Dry run, just print, doesn't execute any action
 > python plex_collections_v2.py run --dry-run --library=3
 
-Run specific library
+Run specific library (3=movies)
 > python plex_collections_v2.py run --library=3
+
+Run specific library (4=animations)
+> python plex_collections_v2.py run --library=4
 
 Run multiple libraries
 > python plex_collections_v2.py run --library=3 --library=1

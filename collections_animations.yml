@@ -1,0 +1,85 @@
+Bambi:
+  - ^Bambi
+Batman:
+  - ^Batman
+Bee Movie:
+  - ^Bee Movie$
+  - ^Maya the Bee
+The Boss Baby:
+  - ^The Boss Baby
+Cars:
+  - ^Cars( \d)?$
+Christmas Carol:
+  - Christmas Carol
+Despicable Me:
+  - ^Despicable Me( \d)?$
+Disney Shorts:
+  - ^The Band Concert$
+  - ^Farmyard Symphony$
+  - ^Fun and Fancy Free$
+  - ^Make Mine Music$
+  - ^Melody Time$
+  - ^Mr. Mouse Takes a Trip$
+  - ^Music Land$
+  - ^The Old Mill$
+  - ^Saludos Amigos$
+  - ^The Three Caballeros$
+Nemo:
+  - ^Finding Nemo$
+  - ^Finding Dory$
+Frozen:
+  - ^Frozen( I+)?$
+Happy Feet:
+  - ^Happy Feet( Two)?$
+How to Train Your Dragon:
+  - ^How to Train Your Dragon( \d)?$
+  - ^How to Train Your Dragon. (Homecoming|The Hidden World)$
+Hayao Miyazaki:
+  - ^Howl's Moving Castle$
+  - ^Princess Mononoke$
+  - ^Spirited Away$
+The Hunchback of Notre Dame:
+  - ^The Hunchback of Notre Dame( I+)?$
+Ice Age:
+  - ^Ice Age(. The Meltdown)?$
+The Incredibles:
+  - ^(The )?Incredibles( \d)?$
+The Jungle Book:
+  - ^The Jungle Book( \d)?$
+The Lego Movie:
+  - ^The Lego Movie
+Lilo & Stitch:
+  - ^Lilo & Stitch
+The Lion King:
+  - ^The Lion King
+The Little Mermaid:
+  - ^The Little Mermaid
+Monsters:
+  - ^Monsters, Inc.$
+  - ^Monsters University$
+Mulan:
+  - ^Mulan( I+)?$
+Peter Pan:
+  - ^Peter Pan
+Pocahontas:
+  - ^Pocahontas
+Pooh:
+  - ^Pooh's
+  - ^The Tigger Movie$
+  - ^Winnie the Pooh$
+The Rescuers:
+  - ^The Rescuers
+The Secret Life of Pets:
+  - ^The Secret Life of Pets( \d)?$
+Shrek:
+  - ^Shrek
+Smurfs:
+  - ^The Smurfs( \d)?$
+  - ^Smurfs. The Lost Village$
+South Park:
+  - ^South Park
+Spirit:
+  - ^Spirit.? (Stallion of the Cimarron|Untamed)$
+Toy Story:
+  - ^Toy Story( \d)?$
+  - ^Lightyear$
