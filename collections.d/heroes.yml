@@ -21,10 +21,14 @@ Fantastic Four: &fantastic_four
  - Fantastic Four
 Guardians of the Galaxy: &guardians_of_the_galaxy
   - ^Guardians of the Galaxy(( Vol\.)? [0-3])?$
+  - The Guardians of the Galaxy Holiday Special
 Iron Man: &iron_man
   - ^Iron Man( [0-3])?$
 Punisher: &punisher
   - Punisher ?(War Zone)?
+Shazam: &shazam
+  - Shazam!
+  - Shazam! Fury of the Gods
 Spider-Man: &spider_man
   - ^Spider.*?man.+?(Homecoming|Far From Home|No Way Home)$
   - Spider-Man ?\d?
@@ -72,7 +76,7 @@ Heroes:
   - ^Kick-Ass
   - *punisher
   - Shang-Chi and the Legend of the Ten Rings
-  - Shazam!
+  - *shazam
   - Spawn
   - *spider_man
   - ^Suicide Squad$

@@ -4,6 +4,7 @@ Time Travel:
   - ^Arrival$
   - ^Avengers. Endgame$
   - ^Back to the Future(.+?Part (I{2,3}|[2-3]))?$
+  - ^Bill & Ted's Excellent Adventure$
   - ^Doctor Strange$
   - ^Donnie Darko$
   - ^Edge of Tomorrow$
@@ -24,3 +25,4 @@ Time Travel:
   - ^Timecrafters. The Treasure of Pirate's Cove$
   - ^Timecrimes$
   - ^Timerider. The Adventure of Lyle Swann$
+  - ^You Might Get Lost$

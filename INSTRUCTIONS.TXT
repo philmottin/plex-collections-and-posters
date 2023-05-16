@@ -10,11 +10,17 @@ The 'Posters\plex_collections_v2.py' will update the image poster for the collec
 This is my version that only update the poster images and checks for the images from a single folder instead of looking for images on each movie from collection.
 Check it's own INSTRUCTIONS inside 'Posters' folder
 
+process 'collections.yml' plus any custom collections named 'collections.d/*.yml'
+> python main.py
+
 Run main collections
 > python main.py collections.yml
 
+Run custom collections named 'collections.d/*.yml'
+> python main.py collections.d/*.yml
+
 Run main animations collections
->python main.py collections_animations.yml
+> python main.py collections_animations.yml
 
 Run main video game collections
->python main.py collections.d/video_games.yml
+> python main.py collections.d/video_games.yml

@@ -99,6 +99,7 @@ Escape Plan:
 The Evil Dead:
   - ^(The )?Evil Dead
   - Army of Darkness
+  - Evil Dead Rise
 The Expendables:
   - ^The Expendables( \d)?$
 The Eye:
@@ -291,7 +292,8 @@ Scary Movie:
   - ^Scary Movie( \d)?$
   - Scary Movie V
 Scream:
-  - Scream( \d)?$
+  - ^Scream( \d)?$
+  - ^Scream VI$
 The Secret Garden:
   - ^(Back to )?(t|T)he Secret Garden$
 Species:
