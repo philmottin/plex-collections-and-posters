@@ -1,3 +1,7 @@
+************************* IMPORTANT ***************************
+* TO UPDATE THE CONFIG.INI FILE RECREATE THE DOCKER CONTAINER *
+***************************************************************
+
 The 'main.py' script will create the collections
 collections are defined in:
 - collections.yml

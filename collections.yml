@@ -61,6 +61,7 @@ The Conjuring Universe:
   - *annabelle
   - *the_conjuring
   - ^The Nun$
+  - ^The Nun II$
   - ^The Crooked Man$
 Crank:
   - ^Crank
@@ -251,6 +252,7 @@ Paranormal Activity:
   - ^Paranormal Activity
 Pet Sematary:
   - ^Pet Sematary( I+)?$
+  - ^Pet Sematary. Bloodlines
 Pirates of the Caribbean:
   - ^Pirates of the Caribbean.+?(The Curse of the Black Pearl|Dead Man.*?s Chest|At World.*?s End|On Stranger Tides|Dead Men Tell No Tales)
 Police Academy:
