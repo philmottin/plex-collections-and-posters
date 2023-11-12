@@ -2,6 +2,7 @@ The Exorcist: &the_exorcist
   - ^(The )?Exorcist.?(III)?$
   - ^Exorcist II
   - ^Exorcist.+?The Beginning$
+  - ^The Exorcist..Believer$
   - ^Dominion$
 Exorcisms & Possessions:
   - Exorcism

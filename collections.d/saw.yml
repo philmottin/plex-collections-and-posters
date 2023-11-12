@@ -1,6 +1,6 @@
 Saw:
   - ^Saw$
-  - ^Saw (I{2,3}|IV|V|VI|[2-3])?$
+  - ^Saw (I{2,3}|IV|V|VI|[2-3]|X)?$
   - Saw.+?The Final Chapter  
   - Saw 3D
   - Jigsaw

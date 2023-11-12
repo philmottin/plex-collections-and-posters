@@ -64,6 +64,7 @@ Heroes:
   - Catwoman
   - *deadpool
   - ^Doctor Strange
+  - Eternals
   - *fantastic_four
   - Green Lantern
   - *guardians_of_the_galaxy
@@ -74,6 +75,7 @@ Heroes:
   - *iron_man
   - Justice League$
   - ^Kick-Ass
+  - The Marvels
   - *punisher
   - Shang-Chi and the Legend of the Ten Rings
   - *shazam
