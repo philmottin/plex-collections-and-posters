@@ -54,9 +54,11 @@ X-Men:
 Heroes:
   - *antman
   - Aquaman
+  - ^Aquaman and the Lost Kingdom$
   - *avengers
   - *batman
   - ^Birds of Prey$
+  - Black Adam
   - Black Panther
   - ^Black Widow$
   - *captain_america
@@ -66,6 +68,7 @@ Heroes:
   - ^Doctor Strange
   - Eternals
   - *fantastic_four
+  - ^The Flash$
   - Green Lantern
   - *guardians_of_the_galaxy
   - ^Hancock$
@@ -75,7 +78,7 @@ Heroes:
   - *iron_man
   - Justice League$
   - ^Kick-Ass
-  - The Marvels
+  - ^The Marvels$
   - *punisher
   - Shang-Chi and the Legend of the Ten Rings
   - *shazam

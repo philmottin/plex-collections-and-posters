@@ -105,6 +105,7 @@ The Evil Dead:
   - Evil Dead Rise
 The Expendables:
   - ^The Expendables( \d)?$
+  - ^Expend4bles$
 The Eye:
   - ^The Eye
 Fantastic Beasts:
@@ -132,6 +133,9 @@ Godzilla:
   - Godzilla
 The Grudge:
   - ^The Grudge( \d)?$
+The Guyver:
+  - ^The Guyver$
+  - ^Guyver. Dark Hero$
 Halloween:
   - ^Halloween
 Hangover:
@@ -155,6 +159,7 @@ Hunger Games:
   - ^The Hunger Games$
   - ^The Hunger Games.+?Catching Fire$
   - ^The Hunger Games.+?Mockingjay(.+?Part [1-2])?$
+  - ^The Hunger Games. The Ballad of Songbirds & Snakes$
 I Know What You Did Last Summer:
   - What You Did Last Summer$
 Independence Day:

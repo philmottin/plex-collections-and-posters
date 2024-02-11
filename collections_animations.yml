@@ -35,7 +35,9 @@ How to Train Your Dragon:
   - ^How to Train Your Dragon( \d)?$
   - ^How to Train Your Dragon. (Homecoming|The Hidden World)$
 Hayao Miyazaki:
+  - ^Castle in the Sky$
   - ^Howl's Moving Castle$
+  - ^My Neighbor Totoro$
   - ^Princess Mononoke$
   - ^Spirited Away$
 The Hunchback of Notre Dame:
@@ -46,6 +48,9 @@ The Incredibles:
   - ^(The )?Incredibles( \d)?$
 The Jungle Book:
   - ^The Jungle Book( \d)?$
+Kung Fu Panda:
+  - ^Kung Fu Panda$
+  - ^Kung Fu Panda \d$
 The Lego Movie:
   - ^The Lego Movie
 Lilo & Stitch:
