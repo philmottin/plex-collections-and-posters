@@ -329,7 +329,7 @@ Trainspotting:
   - ^Trainspotting$
   - ^T2 Trainspotting$
 Transformers:
-  - ^Transformers$
+  - ^Transformers
   - Transformers.+?(Revenge of the Fallen|Dark of the Moon|Age of Extinction|The Last Knight)
   - ^Bumblebee$
 The Transporter:
