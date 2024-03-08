@@ -198,6 +198,9 @@ The Karate Kid:
   - ^The Next Karate Kid$
 Kick-Ass:
   - Kick-Ass( \d)?$
+Kingsman:
+  - ^kingsman
+  - ^The King.s Man$
 King Kong:
   - ^King Kong
   - ^Kong. Skull Island$
